@@ -1,4 +1,6 @@
-[25-Jan-2019 12:50:03 UTC] feed: ftchinese_feed start: 1 end: 5 total: 100 
+[12-Feb-2019 06:10:01 UTC] feed: usmktnews start: 6 end: 10 total: 10 
 
-[25-Jan-2019 12:55:03 UTC] feed: ftchinese_feed start: 1 end: 5 total: 100 
+[12-Feb-2019 06:10:02 UTC] duplicated title: 美国股市：道琼工业指数收跌0.21%，纳斯达克指数小涨0.13% 
+
+[12-Feb-2019 06:10:02 UTC] total_import: 5 total_valid: 4 
 
